@@ -1,0 +1,5 @@
+﻿  Q4.c
+d:\프로그래밍\c\2012112850_김치현\q4.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\프로그래밍\c\2012112850_김치현\q4.c(5): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  2012112850_김치현.vcxproj -> D:\프로그래밍\C\2012112850_김치현\Debug\2012112850_김치현.exe
